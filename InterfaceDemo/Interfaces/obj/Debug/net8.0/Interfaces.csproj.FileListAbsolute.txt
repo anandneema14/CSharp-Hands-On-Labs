@@ -1,0 +1,15 @@
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/bin/Debug/net8.0/Interfaces
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/bin/Debug/net8.0/Interfaces.deps.json
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/bin/Debug/net8.0/Interfaces.runtimeconfig.json
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/bin/Debug/net8.0/Interfaces.dll
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/bin/Debug/net8.0/Interfaces.pdb
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/obj/Debug/net8.0/Interfaces.sourcelink.json
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/obj/Debug/net8.0/Interfaces.dll
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/obj/Debug/net8.0/refint/Interfaces.dll
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/obj/Debug/net8.0/Interfaces.pdb
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/obj/Debug/net8.0/Interfaces.genruntimeconfig.cache
+/Users/anandneema/Desktop/CSharp_HandsOn/Interfaces/obj/Debug/net8.0/ref/Interfaces.dll
